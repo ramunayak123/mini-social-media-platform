@@ -1,0 +1,6 @@
+{
+  "name": "Mini Social Media Platform",
+  "description": "A beginner-friendly, feature-packed Instagram-style social media platform with user profiles, photo posts, filters, like and comment systems, follow graphs, and full Django backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
